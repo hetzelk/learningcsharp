@@ -8,7 +8,11 @@ namespace CookingBot
 {
     class GoShopping
     {
-        Console.WriteLine("1 - Go to the store and buy the required food items"0;
-        Console.WriteLine("Bread, Cheese, Ham, Goldfish");
+        public void shoppingText()
+        {
+            Console.WriteLine("Go to the store and buy the required food items");
+            Console.WriteLine("Buy the items that the customer requested");
+        }
+        
     }
 }

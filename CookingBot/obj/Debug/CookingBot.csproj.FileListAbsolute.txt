@@ -4,3 +4,9 @@ C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\CookingBot\CookingBot\bin\Debu
 C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\CookingBot\CookingBot\obj\Debug\CookingBot.csprojResolveAssemblyReference.cache
 C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\CookingBot\CookingBot\obj\Debug\CookingBot.exe
 C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\CookingBot\CookingBot\obj\Debug\CookingBot.pdb
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\CookingBot\bin\Debug\CookingBot.exe.config
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\CookingBot\obj\Debug\CookingBot.exe
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\CookingBot\obj\Debug\CookingBot.pdb
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\CookingBot\obj\Debug\CookingBot.csprojResolveAssemblyReference.cache
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\CookingBot\bin\Debug\CookingBot.exe
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\CookingBot\bin\Debug\CookingBot.pdb
