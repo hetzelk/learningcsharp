@@ -8,6 +8,13 @@ namespace CookingBot
 {
     class ChooseMealTime
     {
-        //breakfast, lunch, dinner and !! add epic meal time
+        public void chooseMealTime()
+        { 
+            Console.WriteLine("Choose a Meal Time");
+            Console.WriteLine("[1] - Breakfast");
+            Console.WriteLine("[2] - Lunch");
+            Console.WriteLine("[3] - Dinner");
+            Console.WriteLine("[4] - Epic Meal Time");
+        }
     }
 }

@@ -17,10 +17,6 @@ namespace CookingBot
             CookItems cook = new CookItems();
             Deliver deliver = new Deliver();
 
-            shop.shoppingText();
-            deliver.deliverText();
-            Console.ReadLine();
-
         }
     }
 }

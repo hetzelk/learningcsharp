@@ -8,10 +8,10 @@ namespace CookingBot
 {
     class GoShopping
     {
-        public void shoppingText()
+        public void shoppingList()
         {
             Console.WriteLine("Go to the store and buy the required food items");
-            Console.WriteLine("Buy the items that the customer requested");
+            Console.WriteLine("");
         }
         
     }
