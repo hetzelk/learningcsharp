@@ -22,9 +22,9 @@ namespace CookingBot
             genre.lunchGenre();
             genre.dinnerGenre();
             genre.epicGenre();
-            mealchoice.breakfastChoice();
-            mealchoice.lunchChoice();
-            mealchoice.dinnerChoice();
+            mealchoice.breakfastChoice1();
+            mealchoice.lunchChoice1();
+            mealchoice.dinnerChoice1();
             mealchoice.epicChoice();
             shop.shoppingList();
             cook.getItemOne();

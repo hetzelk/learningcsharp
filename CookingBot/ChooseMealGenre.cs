@@ -12,8 +12,7 @@ namespace CookingBot
         {
             Console.WriteLine("[1] - Cereal");
             Console.WriteLine("[2] - Pancakes/French Toast/Waffles");
-            Console.WriteLine("[3] - ");
-            Console.WriteLine("[4] - Breakfast Tacos");
+            Console.WriteLine("[3] - Breakfast Tacos");
         }
 
         public void lunchGenre()
@@ -21,7 +20,6 @@ namespace CookingBot
             Console.WriteLine("[1] - Microwaved");
             Console.WriteLine("[2] - Noodles");
             Console.WriteLine("[3] - Sandwiches");
-            Console.WriteLine("[4] - Fast Food");
         }
 
         public void dinnerGenre()
@@ -29,15 +27,13 @@ namespace CookingBot
             Console.WriteLine("[1] - Pasta");
             Console.WriteLine("[2] - Pizza");
             Console.WriteLine("[3] - Gourmet");
-            Console.WriteLine("[4] - Fast Food");
         }
 
         public void epicGenre()
         {
             Console.WriteLine("[1] - Epic");
             Console.WriteLine("[2] - Epic");
-            Console.WriteLine("[3] - Epic");
-            Console.WriteLine("[4] - Or Epic");
+            Console.WriteLine("[3] - Or Epic");
         }
     }
 }
