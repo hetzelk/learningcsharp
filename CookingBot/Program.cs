@@ -17,6 +17,22 @@ namespace CookingBot
             CookItems cook = new CookItems();
             Deliver deliver = new Deliver();
 
+            mealtime.chooseMealTime();
+            genre.breakfastGenre();
+            genre.lunchGenre();
+            genre.dinnerGenre();
+            genre.epicGenre();
+            mealchoice.breakfastChoice();
+            mealchoice.lunchChoice();
+            mealchoice.dinnerChoice();
+            mealchoice.epicChoice();
+            shop.shoppingList();
+            cook.getItemOne();
+            cook.getItemTwo();
+            cook.getItemThree();
+            deliver.deliverText();
+            Console.ReadLine();
+            
         }
     }
 }
