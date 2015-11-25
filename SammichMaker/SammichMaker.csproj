@@ -50,6 +50,7 @@
     <Compile Include="Side.cs" />
     <Compile Include="toasted.cs" />
     <Compile Include="Topping.cs" />
+    <Compile Include="UserInput.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

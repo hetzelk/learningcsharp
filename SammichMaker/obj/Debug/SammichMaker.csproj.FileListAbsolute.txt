@@ -4,3 +4,9 @@ C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\SammichMaker\SammichMaker\bin\
 C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\SammichMaker\SammichMaker\bin\Debug\SammichMaker.pdb
 C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\SammichMaker\SammichMaker\obj\Debug\SammichMaker.exe
 C:\Users\Keith Hetzel\Desktop\4. dev code camp\C#\SammichMaker\SammichMaker\obj\Debug\SammichMaker.pdb
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\SammichMaker\bin\Debug\SammichMaker.exe.config
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\SammichMaker\obj\Debug\SammichMaker.exe
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\SammichMaker\obj\Debug\SammichMaker.pdb
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\SammichMaker\obj\Debug\SammichMaker.csprojResolveAssemblyReference.cache
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\SammichMaker\bin\Debug\SammichMaker.exe
+C:\Users\Keith Hetzel\Documents\GitHub\learningcsharp\SammichMaker\bin\Debug\SammichMaker.pdb
