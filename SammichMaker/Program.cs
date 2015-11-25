@@ -16,12 +16,11 @@ namespace SammichMaker
             Topping topping = new Topping();
             Side side = new Side();
 
-            //pick from 4 choices to build your sandwich
-            //bread, pick one = italian(white), wheat, rye
-            //toasted, pick one = yes or no
-            //meat, pick as many as you want, but only one of each = Ham, Chicken, Salami
-            //topping, pick as many as you want, but only one of each  = cheese, lettuce, salt, pepper, butter
-            //side, pick one = goldfish, lays chips, doritos
+            Console.WriteLine("Please enter a choice for bread");
+            string breadchoice1 = Console.ReadLine();
+            int breadchoice = Convert.ToInt32(breadchoice1);
+            bread.breadChoice(breadchoice);
+            Console.ReadLine();
         }
     }
 }
