@@ -14,8 +14,10 @@ namespace SammichMaker
                 return "Ham";
             else if (meatchoice == 2)
                 return "Chicken";
-            else
+            else if (meatchoice == 3)
                 return "Salami";
+            else
+                return "Please enter a number 1-3";
         }
     }
 }

@@ -8,12 +8,14 @@ namespace SammichMaker
 {
     class Toasted
     {
-        public string toastChoice(int toastchoice)
+        public string toastChoice(string toastchoice)
         {
-            if (toastchoice == 1)
+            if (toastchoice == "Y")
                 return "Toasted";
-            else
+            else if (toastchoice == "N")
                 return "Not Toasted";
+            else
+                return "Please enter a correct choice";
         }
 
     }

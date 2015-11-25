@@ -8,14 +8,16 @@ namespace SammichMaker
 {
     class Bread
     {
-        public void breadChoice(int breadchoice)
+        public string breadChoice(int breadchoice)
         {
             if (breadchoice == 1)
-                Console.WriteLine("Italian Bread");
+                return "Italian Bread";
             else if (breadchoice == 2)
-                Console.WriteLine("Wheat Bread");
+                return "Wheat Bread";
+            else if (breadchoice == 3)
+                return "Rye Bread";
             else
-                Console.WriteLine("Rye Bread");
+                return "Please enter a number 1-3";
         }
 
     }
